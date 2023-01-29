@@ -1,0 +1,7 @@
+li.starList {
+    display: inline;
+}
+
+.blueStar {
+    fill: #4BB2F2;
+}

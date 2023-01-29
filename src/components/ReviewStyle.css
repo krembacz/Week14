@@ -1,0 +1,39 @@
+* {
+    font-family: verdana; 
+}
+
+.reviewApp {
+    margin-top: 4rem; 
+}
+
+h5 {
+    font-weight: bolder; 
+}
+
+.header {
+    background-color: #BBE8F2; 
+    border-radius: 10px; 
+    justify-content: space-between; 
+    text-align: left; 
+    color: black; 
+    padding: 1.5rem; 
+    padding-right: .9rem; 
+    padding-bottom: 0; 
+    padding-top: .5rem; 
+    max-width: 635px; 
+    display: flex; 
+}
+
+#submit {
+    border-top-left-radius: 0;
+    border-top-right-radius: 0;
+    border-bottom-left-radius: 10px; 
+    border-bottom-right-radius: 10px; 
+    font-weight: bolder; 
+}
+
+.form-control {
+    border-bottom-left-radius: 0;
+    border-bottom-right-radius: 0;
+}
+
